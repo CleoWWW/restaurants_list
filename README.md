@@ -2,7 +2,7 @@
 
 ---
 
-### A simple web application for find a good restaurant
+##### A simple web application for find a good restaurant
 
 ---
 
@@ -23,19 +23,25 @@
 # nstallation and execution
 
 1. Open terminal and clone this project.
-   `git clone https://github.com/chenchiahsiu/restaurant_list.git `
+   
+`git clone https://github.com/chenchiahsiu/restaurant_list.git `
 
 2. Entry the folder of this project in terminal.
-   `cd restaurant_list`
+   
+`cd restaurant_list`
 
 3. Install npm.
-   `key in npm installing command`
+
+`key in npm installing command`
 
 4. Install nodemon.
-   `key in nodemon installing command`
+   
+`key in nodemon installing command`
 
 5. Execute the app.js file.
-   `nodemon app.js`
+
+`nodemon app.js`
 
 6. This sentence in terminal means successful connection.
-   `The Express server is running on http://localhost:3000`
+
+`The Express server is running on http://localhost:3000`
